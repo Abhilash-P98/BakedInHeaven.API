@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BakedInHeaven.API", "BakedInHeaven.API.csproj", "{04AA5157-8A1B-4284-8DFC-E0A702772E5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakedInHeaven.API", "BakedInHeaven.API.csproj", "{04AA5157-8A1B-4284-8DFC-E0A702772E5A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BakedInHeaven.BusinessServices", "..\BakedInHeaven.Services\BakedInHeaven.BusinessServices.csproj", "{E41331E7-5510-4CF7-B650-A6815EF4EB2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakedInHeaven.BusinessServices", "..\BakedInHeaven.Services\BakedInHeaven.BusinessServices.csproj", "{E41331E7-5510-4CF7-B650-A6815EF4EB2A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BakedInHeaven.DataAccess", "..\BakedInHeaven.DataAccess\BakedInHeaven.DataAccess.csproj", "{D2E99F5B-4477-4B95-9A21-84B08141F7D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakedInHeaven.DataAccess", "..\BakedInHeaven.DataAccess\BakedInHeaven.DataAccess.csproj", "{D2E99F5B-4477-4B95-9A21-84B08141F7D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
